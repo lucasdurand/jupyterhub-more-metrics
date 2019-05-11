@@ -1,2 +1,3 @@
 # jupyterhub-more-metrics
-This should be merged into the main JupyterHub when the time is right?
+
+Some user metrics for a filesystem-based jupyterhub instance
